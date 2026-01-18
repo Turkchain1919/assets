@@ -1,0 +1,25 @@
+{
+  "name": "Turkchain Test Token",
+  "website": "https://explorer.turkchain1919.com",
+  "description": "Turkchain uzerinde test amacli olusturulmus ornek ERC20 tokenidir.",
+  "explorer": "https://explorer.turkchain1919.com/token/0xFd123CB7Cfc102DEEd6fD352eD2683E7Dbfc9a3",
+  "type": "ERC20",
+  "symbol": "TST",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xFd123CB7Cfc102DEEd6fD352eD2683E7Dbfc9a3",
+  "tags": [
+    "test-token",
+    "turkchain"
+  ],
+  "links": [
+    {
+      "name": "explorer",
+      "url": "https://explorer.turkchain1919.com"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/Turkchain1919"
+    }
+  ]
+}
