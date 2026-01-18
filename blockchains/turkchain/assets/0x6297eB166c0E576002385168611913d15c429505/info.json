@@ -1,0 +1,31 @@
+{
+  "name": "Turkchain Test Token",
+  "symbol": "test",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6297eB166c0E576002385168611913d15c429505",
+  "website": "https://explorer.turkchain1919.com",
+  "description": "Turkchain uzerinde gelistirme ve test amacli olusturulmus ornek ERC20 tokenidir. Gercek bir deger veya yatirim amaci tasimaz.",
+  "explorer": "https://explorer.turkchain1919.com/token/0x6297eB166c0E576002385168611913d15c429505",
+  "tags": [
+    "test-token",
+    "erc20",
+    "turkchain",
+    "development"
+  ],
+  "links": [
+    {
+      "name": "explorer",
+      "url": "https://explorer.turkchain1919.com/token/0x6297eB166c0E576002385168611913d15c429505"
+    },
+    {
+      "name": "website",
+      "url": "https://turkchain1919.com"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/Turkchain1919"
+    }
+  ]
+}
